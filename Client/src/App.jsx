@@ -6,6 +6,7 @@ import Result from './pages/Result.jsx'
 import Navbar from './components/Navbar.jsx'
 import Footer from './components/Footer.jsx'
 
+
 const App = () => {
   return (
     <div className='min-h-screen bg-slate-50'>
